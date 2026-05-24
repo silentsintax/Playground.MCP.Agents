@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Playground.MCP.Agents.Code.Models/Playground.MCP.Agents.Code.Models.csproj" Id="c958ab71-41a0-45bb-8a05-96b5eeef90ca" />
+    <Project Path="src/Playground.MCP.Agents.MCPServer/Playground.MCP.Agents.MCPServer.csproj" />
+    <Project Path="src/Playground.MCP.Agents.Worker/Playground.MCP.Agents.Worker.csproj" Id="c77a6ea2-bd5d-4839-ad1f-6ad785e464e2" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
