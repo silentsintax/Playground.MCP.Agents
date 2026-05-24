@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/docs/">
+    <File Path="docs/architecture.drawio" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/Playground.MCP.Agents.Code.Models/Playground.MCP.Agents.Code.Models.csproj" Id="c958ab71-41a0-45bb-8a05-96b5eeef90ca" />
     <Project Path="src/Playground.MCP.Agents.MCPServer/Playground.MCP.Agents.MCPServer.csproj" />
